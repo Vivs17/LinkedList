@@ -71,7 +71,6 @@ public static void create(int d) //inserts the node into the list
         firstNode = tmphead ;
     }
 
-
  public static void removeFirst(){
      if(firstNode!=null)
      {
